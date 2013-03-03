@@ -1,0 +1,22 @@
+﻿{
+    "name": "colorit",
+    "description": "give some colors to your node.js console apps",
+    "version": "0.0.1-1",
+    "author": "Marcelo Dezem <marcelo.dezem@gmail.com>",
+    "homepage": "https://github.com/mdezem/colorit",
+    "bugs": "https://github.com/mdezem/colorit/issues",
+    "keywords": [ 
+		"nodejs", 
+		"ansi", 
+		"terminal", 
+		"colors", 
+		"console" ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mdezem/colorit.git"
+    },
+    "main": "lib/colorit",
+    "engines": {
+        "node": ">=0.1.9"
+    }
+}
